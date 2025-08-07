@@ -5,6 +5,6 @@ The project demonstrates basic HTML skills such as headings, paragraphs,
 linking, and images.
 
 Image Credits:
-  Lasanga: Dotdash Meredith Food Studios
-  Brownies: Dotdash Meredith Food Studios
-  Guacamole: Dotdash Meredith Food Studios
+Lasanga: Dotdash Meredith Food Studios
+Brownies: Dotdash Meredith Food Studios
+Guacamole: Dotdash Meredith Food Studios
